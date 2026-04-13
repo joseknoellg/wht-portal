@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/gps.js": {
+      "maxDuration": 10
+    }
+  }
+}
