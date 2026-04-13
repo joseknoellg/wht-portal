@@ -1,0 +1,9 @@
+{
+  "name": "wht-portal",
+  "version": "1.0.0",
+  "description": "WHT Portal - GPS y Historial de Estatus",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static files ready'"
+  }
+}
